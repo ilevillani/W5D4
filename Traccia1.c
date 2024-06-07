@@ -2,8 +2,8 @@
 //importa libreria math.h che include la funzione sqrt per il calcolo della radice quadrata
 #include <math.h>
 
-/*Questo programma, dato un numero D reale immesso da tastiera,
-  calcola: a) l'area di un quadrato di lato D;
+/*Questo programma, dato un numero D reale immesso da tastiera, calcola: 
+  a) l'area di un quadrato di lato D;
   b) l'area di un cerchio di diametro D;
   c) l'area di un triangolo equilatero di lato D
 */
