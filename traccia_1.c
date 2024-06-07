@@ -23,7 +23,7 @@ int main () {
 	printf("Questo numero costituirà la lunghezza del lato del quadrato e del triangolo e il diametro del cerchio.\f\n");
 	
 	//input da utente per l'inserimento di un numero
-	printf("Inserisci un numero reale:\n");
+	printf("Inserisci un numero decimale:\n");
 	//l'input dell'utente viene salvato nella variabile D
 	scanf("%f", &D);
 	
