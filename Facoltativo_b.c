@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
-/*Questo programma, dato un numero D intero o decimale immesso da tastiera,
-  calcola: a) l'area di un quadrato di lato D;
+/*Questo programma, dato un numero D intero o decimale immesso da tastiera, calcola: 
+  a) l'area di un quadrato di lato D;
   b) l'area di un cerchio di diametro D;
   c) l'area di un triangolo equilatero di lato D
   Fornisce due output: uno con cifra arrotondata, l'altro con due cifre decimali
